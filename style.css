@@ -27,7 +27,7 @@ body {
 
 #full {
     float: left;
-    padding: 20px 10px 0px 10px;
+    padding: 30px 10px 10px 10px;
     margin-bottom: 20px;
     width: 52%;
     background-color: #ebebeb;
@@ -43,7 +43,7 @@ section {
     padding: 20px;
     background-color: #777777;
     color: white;
-    margin-bottom: 10px;
+    bottom: 5px;
 }
 
 #headings {
@@ -62,7 +62,7 @@ section {
 
 aside {
     float: right;
-    padding: 20px 20px 242.5px 20px;
+    padding: 20px 20px 243.5px 20px;
     margin-bottom: 20px;
     width: 39.5%;
     background-color: #ebebeb;
